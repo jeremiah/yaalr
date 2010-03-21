@@ -9,10 +9,10 @@ how many people have visited your site whether you are popular or not.
 
 yaalr is a perl script licensed under the GPL. This means you can do as you 
 please with it. Steal the code, mock it, whatever. It reads an apache log
-file of various formats, and produces are report on the command line in its
-current form. Newer functionality allows you to create a set of statistics 
-showing what type of hits you have had based on http status codes. To get this
-type of information use the --stats switch. 
+file of various formats, and produces a report in the terminal. Newer 
+functionality allows you to create a set of statistics  showing what type of 
+hits you have had based on http status codes. To get this type of information 
+use the --stats switch. 
 
 More technical information on yaalr is available in the yaalr manual.
 
