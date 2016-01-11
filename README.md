@@ -1,4 +1,4 @@
-yaalr - Yet Another Apache Log Reader
+# yaalr - Yet Another Apache Log Reader
 
 yaalr aims to stoke your vanity by reporting back to you how popular you are. 
 It does this by reading your Apache log file which is clearly a proxy for 
